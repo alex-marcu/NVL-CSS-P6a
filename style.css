@@ -1,0 +1,70 @@
+body {
+	font-family: 'Open-Sans', sans-serif;
+	font-size: 16px;
+}
+caption {
+	font-size: 24px;
+}
+table {
+	border-collapse: collapse;
+}
+table, th, td {
+	border: 1px solid black;
+}
+th, td {
+	width: 100px;
+}
+tr td:first-child {
+	text-align: center;
+}
+tr {
+	text-align: center;
+}
+#talco {
+	background: rgba(0, 0, 0, 0);
+
+}
+#yeso {
+background: rgba(0, 0, 0, 0.1);
+}
+
+#calcita {
+background: rgba(0, 0, 0, 0.2);
+}
+
+#fluorita {
+background: rgba(0, 0, 0, 0.3);
+}
+
+#apatito {
+background: rgba(0, 0, 0, 0.4);
+}
+
+#ortosa {
+background: rgba(0, 0, 0, 0.5);
+}
+
+#cuarzo {
+background: rgba(0, 0, 0, 0.6);
+color: white;
+}
+
+#topacio {
+background: rgba(0, 0, 0, 0.7);
+color: white;
+}
+
+#corindon {
+background: rgba(0, 0, 0, 0.8);
+color: white;
+}
+
+#diamante {
+background: rgba(0, 0, 0, 1);
+color: white;
+}
+
+img {
+	width: 75px;
+	
+}
